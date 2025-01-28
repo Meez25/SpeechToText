@@ -7,6 +7,8 @@ import (
 	"os"
 	"os/signal"
 	"time"
+
+	"github.com/Meez25/SpeechToText/handlers"
 )
 
 func main() {
